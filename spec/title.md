@@ -18,7 +18,7 @@ Test image
 
 Altough this image is IN the images directory of the source, it doesn't show:
 
-![test image](./images/ControllerAppAgentWitnessWatcherIndirectExchange.png)
+![test image](./ControllerAppAgentWitnessWatcherIndirectExchange.png)
 
 On the other hand, directly linked to github (by right clicking it) will show:
 
