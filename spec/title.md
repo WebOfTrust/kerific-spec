@@ -16,7 +16,7 @@ Kerific Specification V0.5
 
 Test image
 
-Altough this image is IN the images directory of the source, it doesn't show:
+Altough this image is IN the spec directory of the source, it doesn't show:
 
 ![test image](./ControllerAppAgentWitnessWatcherIndirectExchange.png)
 
