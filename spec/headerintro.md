@@ -14,6 +14,15 @@ Kerific Specification V0.5
 
 **Contributors:**
 
+Test image
+
+Altough this image is IN the spec directory of the source, it doesn't show:
+
+![test image](/spec/ControllerAppAgentWitnessWatcherIndirectExchange.png)
+
+On the other hand directly linked to a permalink will show:
+
+![test image](https://github.com/trustoverip/tswg-keri-specification/blob/47ee549ad45b3496109ec08b64ad13fc04cd53b5/images/ControllerAppAgentWitnessWatcherIndirectExchange.png)
 <!-- -->
 
 **Participate:**
