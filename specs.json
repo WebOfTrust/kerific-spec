@@ -7,7 +7,7 @@
       "output_path": "./docs",
       "markdown_paths": [
         "title.md", 
-        "headerintro.md",
+        "header.md",
         "toc.md",
         "foreword.md",
         "introduction.md",
@@ -26,8 +26,8 @@
       "katex": true,
       "source": {
         "host": "github",
-        "account": "trustoverip",
-        "repo": "specification-template"
+        "account": "weboftrust",
+        "repo": "kerific-spec"
       }
     }
   ]
